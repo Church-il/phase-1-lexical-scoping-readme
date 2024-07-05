@@ -161,3 +161,5 @@ JavaScript code consists of distinct compilation and execution phases.
 -
   [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
   (Video)
+
+  Noted!
